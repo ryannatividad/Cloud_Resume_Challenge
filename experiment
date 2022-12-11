@@ -1,0 +1,277 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>Ryan Natividad</title>
+
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.8.1/css/fontawesome.min.css">
+
+    <script src="js/visitor-counter.js"></script>
+    <script>
+      visitorCounter();
+    </script>
+
+  </head>
+  <body>
+    <!-- to create a sidebar menu 
+    <style>
+      ul.sidebar {
+        float: left;
+        width: 200px;
+      }
+      ul.sidebar li {
+        display: block;
+        padding: 8px;
+      }
+      ul.sidebar li a {
+        text-decoration: none;
+      }
+      ul.sidebar li ul {
+        list-style-type: none;
+      }
+    </style>
+    
+    <ul class="sidebar">
+      <li><a href="#">Home</a></li>
+      <li><a href="#">About</a></li>
+      <li><a href="#">Services</a>
+        <ul>
+          <li><a href="#">Service 1</a></li>
+          <li><a href="#">Service 2</a></li>
+          <li><a href="#">Service 3</a></li>
+        </ul>
+      </li>
+      <li><a href="#">Contact</a></li>
+    </ul>
+    -->
+    <!-- format test 1 
+    <style>
+      /* Style the header and footer */
+      header, footer {
+        background-color: #333;
+        color: #fff;
+        padding: 20px;
+      }
+    
+      /* Style the main content area */
+      main {
+        margin: 20px;
+      }
+    
+      /* Style the sidebar */
+      aside {
+        float: left;
+        width: 200px;
+        margin: 20px;
+        background-color: #ccc;
+        padding: 20px;
+      }
+    
+      /* Clear floats */
+      .clearfix:after {
+        content: "";
+        display: table;
+        clear: both;
+      }
+    </style>
+    
+    <header>
+      <h1>Page Title</h1>
+    </header>
+    
+    <main class="clearfix">
+      <aside>
+        <h2>Sidebar</h2>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+      </aside>
+      <div>
+        <h2>Main Content</h2>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+      </div>
+    </main>
+    
+    <footer>
+      <p>Copyright 2021</p>
+    </footer>
+  -->
+
+  <!-- 
+  <style>
+    /* Style the body */
+    body {
+      background-color: #ffffff;
+      font-family: 'DM Sans', sans-serif;
+    }
+  
+    /* Style the header */
+    header {
+      background-color: #6D9958;
+      color: #fff;
+      padding: 20px;
+    }
+  
+    /* Style the main content area */
+    main {
+      margin: 20px;
+    }
+  
+    /* Style the sidebar */
+    aside {
+      float: left;
+      width: 200px;
+      margin: 20px;
+      background-color: #A9D0B6;
+      padding: 20px;
+    }
+  
+    /* Style the footer */
+    footer {
+      background-color: #6D9958;
+      color: #fff;
+      padding: 20px;
+    }
+  
+    /* Clear floats */
+    .clearfix:after {
+      content: "";
+      display: table;
+      clear: both;
+    }
+  </style>
+  
+  <header>
+    <h1>Jane Doe</h1>
+    <p>Web Developer</p>
+  </header>
+  
+  <main class="clearfix">
+    <aside>
+      <h2>Contact Information</h2>
+      <p>
+        Phone: 555-555-5555<br>
+        Email: jane.doe@gmail.com<br>
+        Address: 123 Main Street, Anytown, USA
+      </p>
+      <h2>Summary</h2>
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+    </aside>
+    <div>
+      <h2>Experience</h2>
+      <h3>Web Developer - Acme Corporation (2022-present)</h3>
+      <ul>
+        <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</li>
+        <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</li>
+        <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</li>
+      </ul>
+      <h3>Junior Web Developer - XYZ Inc. (2020-2022)</h3>
+      <ul>
+        <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</li>
+        <li>Lorem ipsum dolor sit
+    -->
+    
+    <!--fix image-->
+<img src="/images/logo_lmu.jpg">
+
+<h1 style="text-align:center;"> 
+    Ryan Natividad
+</h1>
+
+<p style="text-align:center;">
+  (818)-309-6172 | ryannatividad00@gmail.com | https://www.linkedin.com/in/ryank-natividad/
+</p>
+
+<br>
+
+<div style="float:left; width:50%;">
+  <h2> Education </h2>
+  <br>
+  <h3> Loyola Marymount University - Los Angeles, CA</h3>
+  <p> 
+    BBA Finance - Dec 2022 <br>
+    BBA ISBA (Information Systems & Business Analytics) - May 2023
+  </p>
+  </div> 
+</div>
+
+<div style="clear:both;">
+  <h2>
+    Relevant Skills
+  </h2>
+</div>
+
+<div style="float:left; width:10%;">
+  <ul>
+    <li>Microsoft Office Suite</li>
+    <li>Google Drive</li>
+    <li>SQL</li>
+    <li>Slack</li>
+    <li>API & Web Scraping</li>
+    <li>Tableau</li>
+    <li>AWS</li>
+    <li>Azure</li>
+  </ul>
+  </div> 
+
+  <div style="float:left; width:90%;">
+    <ul>
+      <li>Effective time management</li>
+      <li>Critical & strategic thinking</li>
+      <li>Written & verbal communication</li>
+      <li>High integrity</li>
+      <li>Strong work ethic</li>
+    </ul>
+  </div> 
+</div>
+
+
+<div style="clear:both;">
+  <h2> Experience </h2>
+
+    <h3> VideoAmp - Santa Monica, CA</h3>
+      <p> Finance Intern </p>
+      <p> May 2022 - Aug 2022 </p>
+      <ul>
+          <li> A pre-IPO media measurement & optimization software company </li>
+          <li> Analyzed historical financial data to provide benchmark costs in conjunction with 2023 budget planning process </li>
+          <li> Provided weekly metric updates and performed top-level analysis as it relates to tracking software costs, allowing high visibility across the engineering team </li>
+          <li> Conducted headcount analysis, tracking company hiring trends and cost associated with each hire </li>
+          <li> Developed (in beta-phase) workflow for software requests process at full length for company-wide implementation to maximize efficiency while minimizing costs </li>
+          <li> Organized and indexed vendor contracts & related files, and established a filing system for ease of access to data/information within Salesforce database </li>
+          <li> Optimized Excel worksheets/files to ensure ease of understanding and editing processes </li>
+          <li> Performed data reconciliations to ensure financial integrity and accuracy </li>
+        </ul>
+
+    <h3> Makenna Koffee Company - Simi Valley, CA</h3>
+      <p> Manager / Leader Barista </p>
+      <p> Jun 2020 - Jun 2021 </p>
+      <ul>
+        <li> Consistently performed tasks efficiently and high quality -- regularly worked rush-hours where lead a crew to fulfill on average 250+ orders per hour </li>
+        <li> Performed and managed inventory of food, coffee beans, milk, syrups, supplies, and merchandises </li>
+        <li> Utilizing third-party software, processed payroll and manually calculated tips for all employees </li>
+        <li> Conducted training protocols in all aspects of coffee shop operations (including cash register, cleaning/sanitation, and inventory management) and employee onboarding </li>
+        <li> Prepared quality hot and cold drinks such as coffee, tea, artisan, and specialty beverages and food orders </li>
+        <li> Cash register responsibilities </li>
+        <li> Coordinated and supervised state-mandated health-food safety inspection, and successfully obtained passing food standard rating </li>
+        <li> Established and maintained excellent rapport and customer relationships </li>
+      </ul>
+
+    <h3> Student Leadership & Development (LMU) - Los Angeles, CA</h3>
+      <p> Administrative Assitant - Student Leadership & Development Office </p>
+      <p> Jan 2020 - Mar 2020 </p>
+
+      <ul>
+        <li> Worked closely with all Student Organizations on LMU campus related to their sign-ups, organization status, activity and permit requests, reservation information/scheduling, and monitor compliance </li>
+        <li> Performed various clerical and ad hoc tasks, as requested </li>
+      </ul>
+  </div>
+
+
+  <!-- Including Bootstrap JS (with its jQuery dependency) for dynamic components -->
+  <script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+</body>
+</html>
